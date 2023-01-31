@@ -28,9 +28,4 @@ $ cd FlightCancellationsPrediction
 3) Utilize or create a python environment, I suggest we use Jupyter notebook
 
 
-4) Install all the requirements:
-```
-$ pip install -r requirements.txt
-``` 
-
-5) Run the code block by block to see the benchmark metrics for all the models we have used.
+4) Run the code block by block to see the benchmark metrics for all the models we have used.
