@@ -7,6 +7,10 @@ It is a python executable file for the Flight Cancellation prediction model we b
 ## EAI6000_Final_Group_Project (1).docx
 It's the project report I and group Alpha contributed to for the Flight Cancellation prediction models.
 
+## Please download the dataset from the below link:
+```
+https://www.kaggle.com/datasets/giovamata/airlinedelaycauses?select=DelayedFlights.csv
+```
 # Using the Codebase
 
 1) Unzip the folder using the following command:
