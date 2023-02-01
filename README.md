@@ -11,6 +11,9 @@ It's the project report I and group Alpha contributed to for the Flight Cancella
 ```
 https://www.kaggle.com/datasets/giovamata/airlinedelaycauses?select=DelayedFlights.csv
 ```
+
+## Consider the file DelayedFlights.csv to work with
+
 # Using the Codebase
 
 1) Unzip the folder using the following command:
